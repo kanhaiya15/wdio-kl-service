@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A WebdriverIO service that manages tunnel and job metadata for KL.",
   "author": "Kanhaiya Lal Singh <kanhaiya1501@gmail.com>",
-  "homepage": "https://github.com/LambdaTest/wdio-lambdatest-service/tree/master",
+  "homepage": "https://github.com/kanhaiya15/wdio-kl-service/tree/master",
   "license": "MIT",
   "main": "./build/index",
   "engines": {
@@ -25,7 +25,7 @@
     "webdriver",
     "wdio",
     "wdio-service",
-    "lambdatest"
+    "kl"
   ],
   "bugs": {
     "url": "https://github.com/webdriverio/webdriverio/issues"
